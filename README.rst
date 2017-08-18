@@ -1,7 +1,7 @@
 Mockup Site
 ===========
 
-Mockup para sites institucionais
+Mockup for websites 
 
 .. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg
      :target: https://github.com/pydanny/cookiecutter-django/
@@ -63,7 +63,3 @@ Deployment
 ----------
 
 The following details how to deploy this application.
-
-
-
-
