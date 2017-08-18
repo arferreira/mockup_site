@@ -1,0 +1,5 @@
+[run]
+include = mockup_site/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
